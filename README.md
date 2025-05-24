@@ -16,20 +16,20 @@
 
 ## Interests
 * **Art**
- * Painting
- * Drawing
- * Sewing
+  * Painting
+  * Drawing
+  * Sewing
 * **Reading**
- * Horror
- * Sci-fi
- * Historical fiction
+  * Horror
+  * Sci-fi
+  * Historical fiction
 * **Topics**
- * Philosophy and Ethics
- * Pokemon
- * Marvel
- * Batman
- * Homestuck
- * Mythology
+  * Philosophy and Ethics
+  * Pokemon
+  * Marvel
+  * Batman
+  * Homestuck
+  * Mythology
 
 ### Purpose of This Repository
 This is a blend of personal and school account for learning purposes.  
